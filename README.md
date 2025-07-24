@@ -1,0 +1,3 @@
+myPantry, come lanciare l'app:
+
+	Installare sul dispositivo l'app Expo Go disponibile sull App Store/Play Store. Recarsi nella cartella codice/my-app e lanciare il comando "npm install". A procedura finita lanciare il comando "expo start". Successivamente si aprira' una finestra nel browser dalla quale e' possibile visualizzare un codice qr. Inquadrarlo con la fotocamera del telefono per aprire l'app.
