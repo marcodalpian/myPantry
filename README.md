@@ -1,8 +1,6 @@
 # myPantry
 
-**Autore:** Marco Dal Pian  
-**Email:** [marco.dalpian@studio.unibo.it](mailto:marco.dalpian@studio.unibo.it)  
-**Matricola:** 0000892947  
+**Autore:** Marco Dal Pian   
 
 ---
 
@@ -39,25 +37,15 @@ L’app è stata sviluppata con **Expo** (framework React Native) usando **JavaS
 - **Registrazione:** username + email + password  
 - **Salvataggio credenziali** (opzionale) in SQLite
 
-**Schermate:**  
-![Login](./screenshots/login.png)  
-![Registrazione](./screenshots/registrazione.png)
-
 ### Dispensa Personale
 - Visualizzazione dei prodotti salvati  
 - Rimozione dei prodotti con conferma  
 - Ricerca locale tramite barra di ricerca  
 
-**Schermata:**  
-![Dispensa](./screenshots/dispensa.png)
-
 ### Database Pubblico
 - Ricerca prodotti tramite **codice a barre**  
 - Votazione positiva/negativa  
 - Aggiunta di nuovi prodotti non presenti
-
-**Schermata Ricerca:**  
-![Ricerca](./screenshots/ricerca.png)
 
 **Esempio chiamata API:**  
 ```javascript
